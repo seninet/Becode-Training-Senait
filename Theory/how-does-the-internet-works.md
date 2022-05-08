@@ -8,7 +8,8 @@ Internet addresses are in the form **nnn.nnn.nnn.nnn** where nnn must be a numbe
 The picture below illustrates how internet works
 
 ![diagram](/Theory/how-does-the-internet-works1.png)
- ##### Example
+
+ #### Example
 
 When you opened your email, your email application sent a request to your email provider *(for example, Gmail)* through your laptop’s Network Interface Card to your **Wireless Access Point (WAP)** using your local **WiFi**. The WAP then sent the request through a wire to the local router.
 
