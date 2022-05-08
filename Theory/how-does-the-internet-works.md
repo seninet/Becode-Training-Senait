@@ -7,7 +7,7 @@ The internet is a wire, buried in the ground. Computers connected directly to th
 Internet addresses are in the form **nnn.nnn.nnn.nnn** where nnn must be a number from 0 - 255. This address is known as an **IP address.** (IP stands for **Internet Protocol**; more on this later.)
 The picture below illustrates how internet works
 
-![diagram](C:\how-does-the-internet-works.png)
+![diagram](/Theory/how-does-the-internet-works1.png)
  ##### Example
 
 When you opened your email, your email application sent a request to your email provider *(for example, Gmail)* through your laptop’s Network Interface Card to your **Wireless Access Point (WAP)** using your local **WiFi**. The WAP then sent the request through a wire to the local router.
@@ -18,7 +18,7 @@ There, it ended up at a Google data center (because you use Gmail). Google then 
 
 The data was transferred from the Google data center through multiple lines and reached your home router/modem, which made the data available over your home WiFi. Your laptop’s Network Interface Card received the response, sent it to your email application, and then voilà—your new emails fill up your inbox! . 
 
-[<img src="/Theory/how-does-the-internet-works.png" style= "width:400px; margin-left:100px" >]()
+![image](/Theory/how-does-the-internet-works.png)
 
 
 **[read more ...](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)**
