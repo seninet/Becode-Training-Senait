@@ -20,3 +20,5 @@ There, it ended up at a Google data center (because you use Gmail). Google then 
 The data was transferred from the Google data center through multiple lines and reached your home router/modem, which made the data available over your home WiFi. Your laptop’s Network Interface Card received the response, sent it to your email application, and then voilà—your new emails fill up your inbox! . 
 
 **[read more ...](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)**
+
+This document was reviewed by [NordineBeCode](https://github.com/ElazzouziNordineBeCode)
